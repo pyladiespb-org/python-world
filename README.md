@@ -14,7 +14,7 @@ E podem nos amar muuuuito, pois, também vamos deixar alguns materiais relaciona
 
 * [Desenvolvimento Web](#desenvolvimento-web)
 * [Ciência de Dados](#ciência-de-dados)
-* [Programação em Python](programação-python)
+* [Programação em Python](#programação-python)
 * [Desktop GUIs](#desktop-guis)
 * [Inteligência artificial](#inteligência-artificial)
 * [Computação Científica e Numérica](#computação-científica-e-numérica) (Ex: SciPy, anaconda)

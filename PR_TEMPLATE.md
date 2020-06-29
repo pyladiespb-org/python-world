@@ -3,14 +3,14 @@ Com o objetivo de manter tudo em ordem, criamos esse template para você preench
 # Material
 
 ### __Título:__
-<!-- Informe aqui o título do material -->
+Playllist Live de Python - Testes com Python 
 
 ### __Link:__
-<!-- Link para acessar o material -->
+https://www.youtube.com/watch?v=_Z8mUxORh0g&list=PLOQgLBuj2-3IoAs-EbiqARJ3AsmCY_DER&index=2
 
 ### __Idioma:__
 <!-- Marque com um 'x' o idioma do material -->
-    * [ ] Português
+    * [x] Português
     * [ ] Inglês
     * [ ] Outro:(*Especificar*)
 
@@ -22,7 +22,7 @@ Com o objetivo de manter tudo em ordem, criamos esse template para você preench
     * [ ] Desktop GUIs
     * [ ] Inteligência artificial
     * [ ] Computação Científica e Numérica
-    * [ ] Teste de Software
+    * [x] Teste de Software
     * [ ] Aplicações business
     * [ ] Desenvolvimento de Jogos
     * [ ] Aplicações mobile

@@ -136,6 +136,7 @@ E podem nos amar muuuuito, pois, também vamos deixar alguns materiais relaciona
 #### Computação Científica e Numérica
 #### Teste de Software
 * __Para começar:__
+
     + __Português:__
         - [Live de Python - Testes com Python](https://www.youtube.com/watch?v=5hL9T3jintE&list=PLOQgLBuj2-3IoAs-EbiqARJ3AsmCY_DER&index=1)
 

@@ -135,6 +135,10 @@ E podem nos amar muuuuito, pois, também vamos deixar alguns materiais relaciona
         - Além das bibliotecas e frameworks para desenvolvimento em si todo o arcabouço de ferramentas que vem junto dessas técnicas também é em Python ([sessão sobre Ciência de dados](#ciência-de-dados))
 #### Computação Científica e Numérica
 #### Teste de Software
+* __Para começar:__
+    + __Português:__
+        - [Live de Python - Testes com Python](https://www.youtube.com/watch?v=5hL9T3jintE&list=PLOQgLBuj2-3IoAs-EbiqARJ3AsmCY_DER&index=1)
+
 #### Aplicações business
 #### Desenvolvimento de Jogos
 #### Aplicações mobile

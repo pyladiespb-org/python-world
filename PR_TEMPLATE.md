@@ -2,15 +2,17 @@
 Com o objetivo de manter tudo em ordem, criamos esse template para você preencher e nos mandar via pull request com a sua contribuição -->
 # Material
 
-### __Título:__
+### __Título:__ 
 <!-- Informe aqui o título do material -->
+Curso Python Birds
 
-### __Link:__
+### __Link:__ 
 <!-- Link para acessar o material -->
+https://www.python.pro.br/modulos/python-birds/
 
 ### __Idioma:__
 <!-- Marque com um 'x' o idioma do material -->
-    * [ ] Português
+    * [x] Português
     * [ ] Inglês
     * [ ] Outro:(*Especificar*)
 
@@ -18,7 +20,7 @@ Com o objetivo de manter tudo em ordem, criamos esse template para você preench
 <!-- Selecione aqui qual categoria o material se encaixa  -->
     * [ ] Desenvolvimento Web
     * [ ] Ciência de Dados
-    * [ ] Programação em Python
+    * [x] Programação em Python
     * [ ] Desktop GUIs
     * [ ] Inteligência artificial
     * [ ] Computação Científica e Numérica

@@ -92,6 +92,7 @@ E podem nos amar muuuuito, pois, também vamos deixar alguns materiais relaciona
 
         - [Python para zumbis (ALERTA DE CURSO GRÁTIS!!)](https://www.pycursos.com/python-para-zumbis/)
         - [Livro: Grupo Python - Módulo A](https://www.dcc.ufrj.br/~fabiom/mab225/pythonbasico.pdf)
+        - [Python Birds](https://www.python.pro.br/modulos/descricao/python-birds/)
 
 * __Programação orientada a objetos__
     + __Português:__
@@ -125,6 +126,7 @@ E podem nos amar muuuuito, pois, também vamos deixar alguns materiais relaciona
 * __Python atualmente é principal linguagem de frameworks de machine learning e deep learning modernos como:__
     + __Português e Inglês:__
         - [tensorflow](https://www.tensorflow.org/)
+        - [Dector de máscaras(COVID-19)](https://iaexpert.academy/conteudo-assinatura/detector-de-mascaras-com-python/)
     + __Inglês:__    
         - [scikit-learn](https://scikit-learn.org/stable/)
         - [pytorch.0](https://pytorch.org/docs/stable/index.html)

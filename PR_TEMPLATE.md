@@ -4,15 +4,13 @@ Com o objetivo de manter tudo em ordem, criamos esse template para você preench
 
 ### __Título:__ 
 <!-- Informe aqui o título do material -->
-Curso Python Birds
 
 ### __Link:__ 
 <!-- Link para acessar o material -->
-https://www.python.pro.br/modulos/python-birds/
 
 ### __Idioma:__
 <!-- Marque com um 'x' o idioma do material -->
-    * [x] Português
+    * [ ] Português
     * [ ] Inglês
     * [ ] Outro:(*Especificar*)
 
@@ -20,7 +18,7 @@ https://www.python.pro.br/modulos/python-birds/
 <!-- Selecione aqui qual categoria o material se encaixa  -->
     * [ ] Desenvolvimento Web
     * [ ] Ciência de Dados
-    * [x] Programação em Python
+    * [ ] Programação em Python
     * [ ] Desktop GUIs
     * [ ] Inteligência artificial
     * [ ] Computação Científica e Numérica

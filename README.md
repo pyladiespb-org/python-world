@@ -57,8 +57,7 @@ E podem nos amar muuuuito, pois, também vamos deixar alguns materiais relaciona
 
     + __Inglês:__
         - [Documentação oficial](https://flask.palletsprojects.com/en/1.1.x/)
-        - [Tutorial rápido disponibilizado no site oficial do Flask](https://flask.palletsprojects.com/en/1.1.x/quickstart/#quickstart
-)
+        - [Tutorial rápido disponibilizado no site oficial do Flask](https://flask.palletsprojects.com/en/1.1.x/quickstart/#quickstart)
 
     + __Aplicações práticas:__
 
@@ -96,7 +95,7 @@ E podem nos amar muuuuito, pois, também vamos deixar alguns materiais relaciona
 
 * __Programação orientada a objetos__
     + __Português:__
-        - [Apostila da Caelum](https://www.caelum.com.br/apostila-python-orientacao-objetos/orientacao-a-objetos/
+        - [Apostila da Caelum](https://www.caelum.com.br/apostila-python-orientacao-objetos/orientacao-a-objetos/)
 )
         - [Livro: Grupo Python - Módulo B](https://www.cos.ufrj.br/~bfgoldstein/python/pythonoo.pdf)
 
@@ -142,8 +141,14 @@ E podem nos amar muuuuito, pois, também vamos deixar alguns materiais relaciona
     + __Português:__
         - [Live de Python - Testes com Python](https://www.youtube.com/watch?v=5hL9T3jintE&list=PLOQgLBuj2-3IoAs-EbiqARJ3AsmCY_DER&index=1)
 
-#### Aplicações business
 #### Desenvolvimento de Jogos
+* __Arcade__ (Uma biblioteca Python para a criação de videogames 2D)
+
+    + __Inglês:__
+        - [Documentação Oficial](https://api.arcade.academy/en/latest/)
+
+#### Aplicações business        
+
 #### Aplicações mobile
 
 ## Algumas Dicas:

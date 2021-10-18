@@ -85,6 +85,13 @@ E podem nos amar muuuuito, pois, também vamos deixar alguns materiais relaciona
         - [Livro: Python Data Science Handbook - O'Reilly](https://tanthiamhuat.files.wordpress.com/2018/04/pythondatasciencehandbook.pdf)
         - Sempre rola cursos nas plataformas [Udacity](https://www.udacity.com/), [Udemy](https://www.udemy.com/courses/search/?q=data%20science&src=sac&kw=data)… (materiais gratuitos e/ou pagos em torno de 30 reais na [Udemy](https://www.udemy.com/courses/search/?q=data%20science&src=sac&kw=data)) que dão uma visão muito boa sobre os temas. Mas, se quiser investir mais você pode se jogar nos programas de nanodegree da [Udacity](https://www.udacity.com/) ou [Data Bootcamp](https://databootcamp.com.br/)
 
+* __Aplicações práticas:__
+    + __Análide de Dados e Forró__ by [Dandara Sousa](https://github.com/dandaramcsousa) - uma aplicação desevolvida por umas de nossas Ladies utilizando a API do Spotify para analizar a nossa banda do coração, vulgo Calcinha Preta:
+       
+        - [Parte 1](https://dandaramcsousa.github.io/2020/05/26/dados-e-forro-vol-1.html)
+        - [Parte 2](https://dandaramcsousa.github.io/2020/06/02/dados-e-forro-vol-2.html)     
+        - [Parte 3](https://dandaramcsousa.github.io/2020/06/11/dados-e-forro-vol-3.html)
+
 #### Programação em Python
 * __Introdução a Python__
     + __Português:__

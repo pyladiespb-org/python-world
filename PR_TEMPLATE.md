@@ -13,7 +13,7 @@ https://kivy.org/doc/stable/
 ### __Idioma:__
 <!-- Marque com um 'x' o idioma do material -->
     * [ ] Português
-    * [x] Inglês
+    * [ ] Inglês
     * [ ] Outro:(*Especificar*)
 
 ### __Categoria:__
@@ -27,7 +27,7 @@ https://kivy.org/doc/stable/
     * [ ] Teste de Software
     * [ ] Aplicações business
     * [ ] Desenvolvimento de Jogos
-    * [x] Aplicações mobile
+    * [ ] Aplicações mobile
     * [ ] Outro: (*Expecificar nome do tópico*)
 
-<!-- Se você é iniciante no mundo das contribuições, não se desespere! Explicamos como fazer todo o processo no: CONTRIBUINDO.md (Você consegue!!)-->
+<!-- Se você é iniciante no mundo das contribuições, não se desespere! Explicamos como fazer todo o processo no: CONTRIBUTING.md (Você consegue!!)-->

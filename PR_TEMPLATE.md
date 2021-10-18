@@ -4,11 +4,9 @@ Com o objetivo de manter tudo em ordem, criamos esse template para você preench
 
 ### __Título:__ 
 <!-- Informe aqui o título do material -->
-Documenação oficial do Kivy
 
 ### __Link:__ 
 <!-- Link para acessar o material -->
-https://kivy.org/doc/stable/
 
 ### __Idioma:__
 <!-- Marque com um 'x' o idioma do material -->

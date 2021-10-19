@@ -1,5 +1,6 @@
-<!-- Hey, Que bom ver você por aqui!! Já te amamos por querer contribuir com o nosso repositório <3
-Com o objetivo de manter tudo em ordem, criamos esse template para você preencher e nos mandar via pull request com a sua contribuição -->
+Hey, Que bom ver você por aqui!! Já te amamos por querer contribuir com o nosso repositório :heart:
+Com o objetivo de manter tudo em ordem, criamos esse template para você preencher e nos mandar via pull request com a sua contribuição 🎉
+
 # Material
 
 ### __Título:__ 

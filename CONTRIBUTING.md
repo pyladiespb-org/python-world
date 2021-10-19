@@ -21,11 +21,11 @@ Você pode baixar o Git em [git-scm.com](https://git-scm.com/downloads). Você p
 __Debian ou Ubuntu:__
 
 Abra um Terminal e digite:
-```
+```shell
 $ sudo apt install git
 ```
 
-*(Para mais opções de sistemas operacionais você pode conferir [aqui](https://tutorial.djangogirls.org/pt/deploy/#instalando-o-git))*
+> *Para mais opções de sistemas operacionais você pode conferir [aqui](https://tutorial.djangogirls.org/pt/deploy/#instalando-o-git)*
 
 # Conta no Github
 
@@ -35,16 +35,16 @@ Para utilizar o Github é preciso criar uma conta na plataforma, se você ainda 
 
 Conta criada, agora é hora de fazer a autenticação no seu computador, para vincular o seu perfil do Github.
 
-*__Lembrando que, a autenticação só precisa ser feita uma vez. Então, se você fez isso antes, é só pular esta etapa__*.
+> Lembrando que, a autenticação só precisa ser feita uma vez. Então, se você fez isso antes, é só pular esta etapa.
 
 1 - Abra um terminal(Linux) ou Prompt(Windows) e digite:
 
 
-```
+```shell
 $ git config --global user.name "Seu Nome Aqui"
 ```
 2 - Feito isso, digite:
-```
+```shell
 $ git config --global user.email seuEmailDoGithub@exemplo.com
 ```
 
@@ -68,10 +68,17 @@ O próximo passo é fazer __Clone__ do repositório. Isso fará com que você te
 
 Para isso, iremos utilizar novamente o terminal/CMD. Porém, antes precisamos copiar o link do nosso repositório, portanto, certifique-se de estar no repositório resultado do Fork e não no original. Copie o link, como mostrado na imagem:
 
+# ![foto: git clone](img/git-clone.png)
+
 Agora no terminal, digite:
 
+```shell
+$ git clone <link-que-copiou>
 ```
-$ git clone linkRepositorio.com
+Outra maneira de fazer o clone sem precisar copiar link é utitlizando o comando:
+
+```shell
+$ git clone github.com/<seu_username>/python-world
 ```
 
 Se você não tiver especificado nenhuma pasta no terminal, provavelmente o clone de ter sido feito na raiz do seu computador(Pasta pessoal/Área de trabalho). Caso não encontre, você sempre pode buscar pelo nome do repositório: *PythonWorld*.
@@ -81,10 +88,18 @@ Se você não tiver especificado nenhuma pasta no terminal, provavelmente o clon
 Você deve entrar nessa pasta antes de fazer o __Clone__.
 Linux/Windows:
 
+```shell
+$ cd nome-da-pasta
 ```
-$ cd nomeDaPasta
+> Tenha em mente o caminho da pasta que deseja e o caminho em que você está, para que o comando funione.
+
+Feito isso, você precisa criar uma nova branch, onde será adicinada a sua cocntribuição. No terminal, use o comando a seguir, substituindo `<>` pelo nome da nova branch (Ex: novo-material, etc).
+
+```shell
+git checkout -b <nome-da-branch>
 ```
-__(Tenha em mente o caminho da pasta que deseja e o caminho em que você está, para que o comando funione)__
+
+Prontinho!! você criou uma nova *Branch* dentro projeto e já pode começar a contribuir :partying_face:.
 
 # Preparando contribuição
 
@@ -100,27 +115,27 @@ Certo, é hora de subir as suas alterações para o GitHub!
 
 No Terminal/CMD, digite:
 
-```
+```shell
 $ git status
 ```
 Esse comando mostra todos os arquivos modificados, certifique-se de que somente o __PR_TEMPLATE.md__ seja alterado. Feito isso, digite:
 
-```
+```shell
 $ git add PR_TEMPLATE.md
 ```
 Esse comando irá adicionar o arquivo __PR_TEMPLATE.md__ ao nosso *commit*. Entenda __commit__ como uma pasta de alterações que deve ser enviada para o GitHub. Vamos criar nosso commit agora mesmo:
 
-```
-$ git commit -m "Sugerindo material sobre <seu material aqui>"
+```shell
+$ git commit -m "<Sugerindo material sobre o tópico x>"
 ```
 Substitua os <> da mensagem acima para que descreva o material que você está sugerindo. Lembre-se que as aspas devem permancer no início e fim da mensagem, certo?
 
 *Commit* criado é hora de enviá-lo ao GitHub:
 
-```
+```shell
 $ git push origin master
 ```
-Feito isso, o GitHub irá solicitar seu username e senha. Se você está utilizando Linux, é normal que a senha não apareça visivelmente enquanto digita. Se ocorrer tudo certo com o ocmando, você poderá ver algo do tipo:
+Feito isso, o GitHub irá solicitar seu username e senha. Se você está utilizando Linux, é normal que a senha não apareça visivelmente enquanto digita. Se ocorrer tudo certo com o comando, você poderá ver algo do tipo:
 
 # Pull Request da contribuição
 
@@ -160,7 +175,7 @@ YAY!! Agora, você oficialmente é uma Ladie que contribui para a comunidade *Op
 
 <img src="https://media.giphy.com/media/3oz8xAFtqoOUUrsh7W/giphy.gif" width="200" height="200"/>
 
-A partir de agora, é só esperar sua contribuição ser analizada e aprovada por alguma da nossas Ladies responsáveis.
+__A partir de agora, é só esperar sua contribuição ser analizada e aprovada por alguma da nossas Ladies responsáveis.__
 
 Estamos muito orgulhosas de você e gratas pela sua contribuição, ficamos muito felizes em ver esse projeto crescer e ajudar váaaarias outras Ladies :heart:
 

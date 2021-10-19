@@ -154,6 +154,16 @@ E podem nos amar muuuuito, pois, também vamos deixar alguns materiais relaciona
     + __Inglês:__
         - [Documentação Oficial](https://api.arcade.academy/en/latest/)
 
+* __PyGame__ (Um módulo Python que fornece a API da biblioteca SDL (feita em C) para desenvolvimento de games.Provê facilidades tais como Sprites, Render Groups, deteção de colisão básica (retângulos) e etc.
+
+    + __Inglês:__
+	- [Documentação Oficial](https://www.pygame.org/docs/)
+
+* __PPlay__ (Framework para desenvolvimento de jogos na linguagem Python, com objetivo educacional.)
+
+    + __Português:__
+        - [Documentação Oficial](http://www2.ic.uff.br/pplay/)
+
 #### Aplicações business        
 
 #### Aplicações mobile

@@ -28,4 +28,4 @@ Com o objetivo de manter tudo em ordem, criamos esse template para você preench
     * [ ] Aplicações mobile
     * [ ] Outro: (*Expecificar nome do tópico*)
 
-<!-- Se você é iniciante no mundo das contribuições, não se desespere! Explicamos como fazer todo o processo no: CONTRIBUTING.md (Você consegue!!)-->
+Se você é iniciante no mundo das contribuições, não se desespere! Explicamos como fazer todo o processo no: CONTRIBUTING.md (Você consegue!!)

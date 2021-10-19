@@ -1,5 +1,6 @@
-<!-- Hey, Que bom ver você por aqui!! Já te amamos por querer contribuir com o nosso repositório <3
-Com o objetivo de manter tudo em ordem, criamos esse template para você preencher e nos mandar via pull request com a sua contribuição -->
+Hey, Que bom ver você por aqui!! Já te amamos por querer contribuir com o nosso repositório :heart:
+Com o objetivo de manter tudo em ordem, criamos esse template para você preencher e nos mandar via pull request com a sua contribuição 🎉
+
 # Material
 
 ### __Título:__ 
@@ -28,4 +29,4 @@ Com o objetivo de manter tudo em ordem, criamos esse template para você preench
     * [ ] Aplicações mobile
     * [ ] Outro: (*Expecificar nome do tópico*)
 
-Se você é iniciante no mundo das contribuições, não se desespere! Explicamos como fazer todo o processo no: [CONTRIBUTING](https://github.com/pyladiespb-org/python-world/blob/master/CONTRIBUTING.md) (Você consegue!!)
+Se você é iniciante no mundo das contribuições, não se desespere! Explicamos como fazer todo o processo no: [CONTRIBUTING.md](https://github.com/pyladiespb-org/python-world/blob/master/CONTRIBUTING.md) (Você consegue!!)

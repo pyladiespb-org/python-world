@@ -135,6 +135,8 @@ Substitua os <> da mensagem acima para que descreva o material que você está s
 ```shell
 $ git push origin master
 ```
+> O GitHub pode solicitar que você informe suas credenciais, lembre-se: `username` e `senha` que você cadastrou. Outro ponto importante é que, para as Linux girls, a senha pode não aparecer enquanto você digita e está tudo bem, é só o jeitinho do sistema operacional :heart:
+
 Feito isso, o GitHub irá solicitar seu username e senha. Se você está utilizando Linux, é normal que a senha não apareça visivelmente enquanto digita. Se ocorrer tudo certo com o comando, você poderá ver algo do tipo:
 
 # Pull Request da contribuição

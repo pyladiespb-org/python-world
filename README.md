@@ -157,6 +157,10 @@ E podem nos amar muuuuito, pois, também vamos deixar alguns materiais relaciona
 #### Aplicações business        
 
 #### Aplicações mobile
+* __Kivy__
+
+    + __Inglês:__
+        - [Documentação Oficial](https://kivy.org/doc/stable/philosophy.html)
 
 ## Algumas Dicas:
 

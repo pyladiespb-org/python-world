@@ -89,7 +89,7 @@ Você deve entrar nessa pasta antes de fazer o __Clone__.
 Linux/Windows:
 
 ```shell
-$ cd nome-da-pasta
+$ cd <nome-da-pasta>
 ```
 > Tenha em mente o caminho da pasta que deseja e o caminho em que você está, para que o comando funione.
 

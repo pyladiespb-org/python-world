@@ -4,22 +4,22 @@ Com o objetivo de manter tudo em ordem, criamos esse template para você preench
 # Material
 
 ### __Título:__ 
-<!-- Informe aqui o título do material -->
+<!-- Python Fundamentos para análise de Dados 3.0 -->
 
 ### __Link:__ 
-<!-- Link para acessar o material -->
+<!-- https://www.datascienceacademy.com.br/cursosgratuitos -->
 
 ### __Idioma:__
 <!-- Marque com um 'x' o idioma do material -->
-    * [ ] Português
+    * [x] Português
     * [ ] Inglês
     * [ ] Outro:(*Especificar*)
 
 ### __Categoria:__
 <!-- Selecione aqui qual categoria o material se encaixa  -->
     * [ ] Desenvolvimento Web
-    * [ ] Ciência de Dados
-    * [ ] Programação em Python
+    * [x] Ciência de Dados
+    * [x] Programação em Python
     * [ ] Desktop GUIs
     * [ ] Inteligência artificial
     * [ ] Computação Científica e Numérica

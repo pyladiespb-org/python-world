@@ -80,6 +80,7 @@ E podem nos amar muuuuito, pois, também vamos deixar alguns materiais relaciona
 * __Materiais para estudo:__
     * __Português:__
         - [Repositório do Pizza de Dados](https://github.com/PizzaDeDados/datascience-pizza)
+        - [Python Fundamentos para análise de Dados](https://www.datascienceacademy.com.br/cursosgratuitos)
 
     * __Inglês:__
         - [Livro: Python Data Science Handbook - O'Reilly](https://tanthiamhuat.files.wordpress.com/2018/04/pythondatasciencehandbook.pdf)

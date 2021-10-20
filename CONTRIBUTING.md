@@ -99,7 +99,7 @@ Feito isso, você precisa criar uma nova branch onde será adicionada a sua cont
 ```shell
 $ cd .\python-world\
 ```
-<!-- Optei por colocar parêntesis ali pra evitar o excesso de vírgulas devido ao "E finalmente" e.e -->
+<!-- Optei por colocar parênteses ali pra evitar o excesso de vírgulas devido ao "E finalmente" e.e -->
 E finalmente, no terminal, use o comando a seguir (substitua `<>` pelo nome da nova branch, Ex: novo-material, etc):
 
 ```shell

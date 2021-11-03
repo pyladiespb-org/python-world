@@ -92,14 +92,13 @@ Linux/Windows:
 $ cd <nome-da-pasta>
 ```
 > Tenha em mente o caminho da pasta que deseja e o caminho em que você está, para que o comando funione.
-<!-- adicinada, cocntribuição -> adicionada, contribuição // 
-Adicionando um novo passo: Acesso à pasta do repositório clonado para então fazer checkout na branch-->
+
 Feito isso, você precisa criar uma nova branch onde será adicionada a sua contribuição. Antes disso, acesse a pasta do repositório clonado:
 
 ```shell
 $ cd .\python-world\
 ```
-<!-- Optei por colocar parênteses ali pra evitar o excesso de vírgulas devido ao "E finalmente" e.e -->
+
 E finalmente, no terminal, use o comando a seguir (substitua `<>` pelo nome da nova branch, Ex: novo-material, etc):
 
 ```shell

@@ -148,6 +148,14 @@ E podem nos amar muuuuito, pois, também vamos deixar alguns materiais relaciona
 
     + __Português:__
         - [Live de Python - Testes com Python](https://www.youtube.com/watch?v=5hL9T3jintE&list=PLOQgLBuj2-3IoAs-EbiqARJ3AsmCY_DER&index=1)
+        
+* __PyTest__ (Framework para escrita de testes unitários e funcionais em Python)
+    + __Inglês:__
+        - [Documentação Oficial](https://docs.pytest.org/en/6.2.x/contents.html#)
+
+* __Locust__ (Ferramenta para criação e execução de testes não funcionais de carga/stress/perfomance)
+    + __Inglês:__
+        - [Documentação Oficial](https://docs.locust.io/en/stable/index.html)
 
 #### Desenvolvimento de Jogos
 * __Arcade__ (Uma biblioteca Python para a criação de videogames 2D)
